@@ -1,3 +1,3 @@
-# Color my view
+# Color my views
 
 Learning about constrained layout
